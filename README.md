@@ -22,8 +22,8 @@ Text body translation is complete.  Next remaining steps:
 Clone the garden's repo and get into the cloned directory:
 
 ```bash
-git clone https://github.com/monerogarden/web.git
-cd web
+git clone https://github.com/k4r4b3y/monerobahcesi.git
+cd monerobahcesi
 ```
 
 On debian 12, open a terminal window and enter the following command
