@@ -53,7 +53,7 @@ visit `http://127.0.0.1:8080/` to view it.
 
 ### Donate
 
-Support the Cause!  Donate towards the domain name registry costs:
+Support the Cause!  **Donate** towards the domain name registry costs:
 
 ```
 88JiTX1ZuqXjEhVrxQRZBAX9VTBjzaBYUbh9Y85mL4Am7zkAVnDzxX4HMJdqSWcDMWSqyXShN9vuvYMySGTeYaRb3nc3H4w
