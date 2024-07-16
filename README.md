@@ -45,7 +45,7 @@ Now enter the following command to compile the content:
 
 ```bash
 npm i
-npx quartz build --serve
+npx quartz build --output docs --serve
 ```
 
 The monero garden is now available locally.  Open a web browser and
