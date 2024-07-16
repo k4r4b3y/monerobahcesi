@@ -59,8 +59,8 @@ Support the Cause!  Donate towards the domain name registry costs:
 88JiTX1ZuqXjEhVrxQRZBAX9VTBjzaBYUbh9Y85mL4Am7zkAVnDzxX4HMJdqSWcDMWSqyXShN9vuvYMySGTeYaRb3nc3H4w
 ```
 
-![Donate XMR](monerobahcesicom_tanitimi_compressed.jpg)
-{: .center}
+<center><img src="monerobahcesicom_tanitimi_compressed.jpg"
+width="300" height="200"></center>
 
 
 ---
