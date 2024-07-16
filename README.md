@@ -8,6 +8,15 @@ src="https://img.shields.io/badge/Bahçeyi%20ziyaret%20et-ff774d?style=for-the-b
 
 ---
 
+### Status
+
+Text body translation is complete.  Next remaining steps:
+
+- [ ] move the github pages to monerobahcesi.com URL
+- [ ] create MoneroBahcesi.com stickers with URL's QR-code on them
+- [ ] Add monero icons to the page template.  A site named "monero
+      garden" doesn't have a single monero image in it.  Ridiculous.
+
 ### Run the garden locally
 
 Clone the garden's repo and get into the cloned directory:
@@ -47,3 +56,5 @@ visit `http://127.0.0.1:8080/` to view it.
 <p align="center"><sub>Monero Bahçesi <a
 href="https://quartz.jzhao.xyz/">quartz</a> ile
 yaratılmıştır.</sub></p>
+
+![This project is powered by emacs](powered_by_emacs.svg)
