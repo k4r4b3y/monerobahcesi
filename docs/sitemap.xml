@@ -1,28 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/mine_monero</loc>
-    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/receive_monero</loc>
-    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/send_monero</loc>
-    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/use_monero</loc>
-    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/buy_with_monero</loc>
-    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/tip_monero</loc>
-    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/gift_monero</loc>
-    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/donate_monero</loc>
-    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
-  </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/get_started</loc>
     <lastmod>2024-07-09T10:16:05.809Z</lastmod>
   </url><url>
@@ -50,8 +26,59 @@
     <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/earn_monero</loc>
     <lastmod>2024-07-09T10:16:05.809Z</lastmod>
   </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/mine_monero</loc>
+    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/receive_monero</loc>
+    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/send_monero</loc>
+    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/use_monero</loc>
+    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/buy_with_monero</loc>
+    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/tip_monero</loc>
+    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/gift_monero</loc>
+    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/donate_monero</loc>
+    <lastmod>2024-07-09T10:16:05.809Z</lastmod>
+  </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/1-kullanicilar-icin-kilavuz/</loc>
     <lastmod>2024-07-09T12:12:20.867Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/lets_do_it</loc>
+    <lastmod>2024-07-09T10:16:05.810Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/money_is_a_battery</loc>
+    <lastmod>2024-07-09T10:16:05.811Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/good_money</loc>
+    <lastmod>2024-07-09T10:16:05.811Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/money_rules</loc>
+    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/value_vs_price</loc>
+    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/how_much_money</loc>
+    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/scarcity</loc>
+    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/proof</loc>
+    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/miners</loc>
+    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
   </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/money_ledger</loc>
     <lastmod>2024-07-09T10:16:05.810Z</lastmod>
@@ -81,9 +108,6 @@
     <lastmod>2024-07-09T10:16:05.810Z</lastmod>
   </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/from_keys_to_seeds</loc>
-    <lastmod>2024-07-09T10:16:05.810Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/lets_do_it</loc>
     <lastmod>2024-07-09T10:16:05.810Z</lastmod>
   </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/mnemonic_seeds</loc>
@@ -116,9 +140,6 @@
     <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/accounts</loc>
     <lastmod>2024-07-09T10:16:05.811Z</lastmod>
   </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/money_is_a_battery</loc>
-    <lastmod>2024-07-09T10:16:05.811Z</lastmod>
-  </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/subaddresses</loc>
     <lastmod>2024-07-09T10:16:05.811Z</lastmod>
   </url><url>
@@ -149,9 +170,6 @@
     <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/emission_curve</loc>
     <lastmod>2024-07-09T10:16:05.811Z</lastmod>
   </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/good_money</loc>
-    <lastmod>2024-07-09T10:16:05.811Z</lastmod>
-  </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/tail_emission</loc>
     <lastmod>2024-07-09T10:16:05.811Z</lastmod>
   </url><url>
@@ -176,32 +194,8 @@
     <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/randomx</loc>
     <lastmod>2024-07-09T10:16:05.812Z</lastmod>
   </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/money_rules</loc>
-    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/value_vs_price</loc>
-    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/how_much_money</loc>
-    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/scarcity</loc>
-    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/proof</loc>
-    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/miners</loc>
-    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
-  </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/2-meraklilar-icin-proje-plani/</loc>
     <lastmod>2024-07-09T12:12:41.071Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/3-insanlar-icin-notlar/pressure_valve</loc>
-    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
-  </url><url>
-    <loc>https://k4r4b3y.github.io/monerobahcesi/3-insanlar-icin-notlar/freedom_of_thought</loc>
-    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
   </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/3-insanlar-icin-notlar/wake_up</loc>
     <lastmod>2024-07-09T10:16:05.812Z</lastmod>
@@ -229,6 +223,12 @@
   </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/3-insanlar-icin-notlar/strings_attached</loc>
     <lastmod>2024-07-09T10:16:05.813Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/3-insanlar-icin-notlar/pressure_valve</loc>
+    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
+  </url><url>
+    <loc>https://k4r4b3y.github.io/monerobahcesi/3-insanlar-icin-notlar/freedom_of_thought</loc>
+    <lastmod>2024-07-09T10:16:05.812Z</lastmod>
   </url><url>
     <loc>https://k4r4b3y.github.io/monerobahcesi/3-insanlar-icin-notlar/</loc>
     <lastmod>2024-07-09T12:13:17.215Z</lastmod>
