@@ -24,6 +24,9 @@ def add_navigation_links(subfolder, files):
     This function adds navigation links to each file in the given subfolder.
     """
     for i, file in enumerate(files):
+        # Skip adding navlinks to index.md files
+        if file == "index.md":
+            continue
         file_path = os.path.join(subfolder, file)
         
         # Open the file to read the content and remove existing links
