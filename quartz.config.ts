@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "tr-TR",
-    baseUrl: "k4r4b3y.github.io/monerobahcesi",
+    baseUrl: "monerobahce.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
