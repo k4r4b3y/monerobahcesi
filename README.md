@@ -3,7 +3,7 @@
 <p align="center"> "Guru yok, metod yok, öğretmen yok. Sadece sen ve
 ben, ve doğa, <b>bahçe</b> içinde." — Terence McKenna </p>
 
-<p align="center"><a href="https://monerobahcesi.com"><img
+<p align="center"><a href="https://monerobahce.com"><img
 src="https://img.shields.io/badge/Bahçeyi%20ziyaret%20et-ff774d?style=for-the-badge&logo=leaflet&logoColor=green"></a></p>
 
 ---
@@ -12,8 +12,8 @@ src="https://img.shields.io/badge/Bahçeyi%20ziyaret%20et-ff774d?style=for-the-b
 
 Text body translation is complete.  Next remaining steps:
 
-- [ ] move the github pages to monerobahcesi.com URL
-- [ ] create MoneroBahcesi.com stickers with URL's QR-code on them
+- [X] move the github pages to ~monerobahcesi.com~ monerobahce.com URL
+- [ ] create MoneroBahce.com stickers with URL's QR-code on them
 - [ ] Add monero icons to the page template.  A site named "monero
       garden" doesn't have a single monero image in it.  Ridiculous.
 
